@@ -3,6 +3,9 @@
 
 # 播放器说明
 播放器可以播放mp3、mp4、flv、m3u8等常见格式，不支持MP4 H265格式的视频。
+![播放中](https://cdn.jsdelivr.net/gh/superggfun/alphaYplayer/screenshot/playing.png)
+![加载](https://cdn.jsdelivr.net/gh/superggfun/alphaYplayer/screenshot/playLoading.png)
+![播放中](https://cdn.jsdelivr.net/gh/superggfun/alphaYplayer/screenshot/admin.png)
 
 # 使用方法
 1. 请使用 PHP7.X版本，并在 PHP7.4 环境测试通过。请勿使用PHP8.X版本，在这个版本中可能会运行失败！
