@@ -33,7 +33,7 @@
 
 测试mp4：https://localhost/player/?url=http://vfx.mtime.cn/Video/2019/03/19/mp4/190319222227698228.mp4
 
-测试m3u8：https://test.y-alpha.com/player/?url=https://vod1.bdzybf7.com/20220226/9KUhKiAs/index.m3u8
+测试m3u8：https://localhost/player/?url=https://vod1.bdzybf7.com/20220226/9KUhKiAs/index.m3u8
 
 #### 高级
 除了 url 参数，其他都可以省略
