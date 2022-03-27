@@ -5,6 +5,7 @@
 播放器可以播放mp3、mp4、flv、m3u8等常见格式，不支持MP4 H265格式的视频。
 ![播放中](https://cdn.jsdelivr.net/gh/superggfun/alphaYplayer/screenshot/playing.png)
 ![加载](https://cdn.jsdelivr.net/gh/superggfun/alphaYplayer/screenshot/playLoading.png)
+![登录](https://cdn.jsdelivr.net/gh/superggfun/alphaYplayer/screenshot/login.png)
 ![播放中](https://cdn.jsdelivr.net/gh/superggfun/alphaYplayer/screenshot/admin.png)
 
 # 使用方法
