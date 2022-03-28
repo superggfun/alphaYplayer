@@ -11,12 +11,20 @@ if (empty($url)) {
         <link rel="shortcut icon" href="img/alphay.ico" type="image/x-icon">
         <style>
         h1{color:#FF00FF; text-align:center; font-family: Microsoft Jhenghei;}p{color:#FF00FF; font-size: 1.2rem;text-align:center;font-family: Microsoft Jhenghei;}
+        #master {text-align: center;width: 100%;}
         </style>
         </head>
         <body style="background: #FFFFFF url(https://tenapi.cn/acg) no-repeat fixed center;">
         <table width="100%" height="100%" align="center"><tbody><tr>
         <td align="center">
-        <h1><b>AlphaY播放器<br><h1>您好像没有输入视频链接地址哦</h1><p>支持mp3、mp4、flv和m3u8的直链播放<br>不以盈利为目的使用本接口造成的任何后果概不负责</p><p><font size="2"><br>所有资源均来源第三方资源，并不提供影片资源存储，也不参与录制、上传相关视频，视频版权归属其合法持有人所有<br>本站不对使用者的行为负担任何法律责任。如果有因为本站而导致您的权益受到损害，请与我们联系，我们将理性对待，协助你解决相关问题。</font></p></b></h1></td></tr></tbody></table>
+        <h1><b>AlphaY播放器<br><h1>您好像没有输入视频链接地址哦</h1><p>支持mp3、mp4、flv和m3u8的直链播放<br>不以盈利为目的使用本接口造成的任何后果概不负责</p></b></h1>
+        </td></tr>
+        <td id="master" >
+            <p><font size="2"><a href="https://github.com/superggfun/alphaYplayer">AlphaY播放器开源地址</a><br>所有资源均来源第三方资源，并不提供影片资源存储，也不参与录制、上传相关视频，视频版权归属其合法持有人所有<br>本站不对使用者的行为负担任何法律责任。如果有因为本站而导致您的权益受到损害，请与我们联系，我们将理性对待，协助你解决相关问题。</font></p>
+        </td>
+        </tbody>
+        </table>
+
         </body>
         </html>');
         }
